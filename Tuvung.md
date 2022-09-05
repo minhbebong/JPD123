@@ -1,7 +1,7 @@
 # Bai4.1
-きた : phía bắc
-みなみ : phía nam
-ひがし : phía đông
+- きた : phía bắc
+- みなみ : phía nam
+- ひがし : phía đông
 にし : phía tây
 まんなか : giữa, trung tâm
 くるま : ô tô
