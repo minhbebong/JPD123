@@ -71,3 +71,189 @@
 - とても : rất
 - どう : thế nào
 - そうですね : Đúng thế. (câu nói thể hiện sự đồng tình với ý kiến của người khác)
+
+# Bai 4 NguPhap
+このりょうりは からいです。
+Món ăn này cay.
+X は Aい です。
+X có đặc điểm, tính chất A với A là tính từ đuôi い.
+
+
+このレモンは すっぱくないです。
+Quả chanh này không chua.
+X は Aくない です。
+Câu phủ định với vị ngữ là tính từ đuôi い bỏ い thêm くないです。
+
+
+
+
+
+
+00:08
+01:11
+A先生は ゆうめいです。
+Thầy/cô A nổi tiếng.
+X は A です。
+X có đặc điểm, tính chất A với A là tính từ đuôi な。
+Ở câu khẳng định với vị ngữ là tính từ đuôi な: bỏ な
+2 tính từ đuôi な đặc biệt: きれい（な）ゆうめい（な）
+
+
+このくるま は きれいじゃありません。
+Cái ô tô này không đẹp.
+X は Aじゃありません。
+Câu phủ định với vị ngữ là tính từ đuôi な.
+bỏ な thêm じゃありません
+
+
+わたしの まちは しずかな ところです。
+Thành phố của tôi là nơi yên tĩnh.
+Aな＋N Khi tính từ đuôi な đứng trước Danh từ để bổ nghĩa cho danh từ: giữ nguyên đuôi な
+
+
+それは いい 本です。
+Đó là quyển sách hay.
+Aい＋N Khi tính từ đuôi い đứng trước Danh từ để bổ nghĩa cho danh từ: giữ nguyên đuôi い
+
+
+とうきょうは 6月 あめが おおいです。
+Tokyo thì tháng 6 nhiều mưa.
+N1 (くに、まち）は N2（Time）、 A です。
+N1(đất nước, thành phố) thì N2 (từ chỉ thời gian) có đặc điểm A (từ chỉ thời tiết).
+
+
+ハノイは いま とても さむいです。
+ダラットは いま すこし さむいです。
+Hà nội bây giờ rất lạnh.
+Đà Lạt bây giờ hơi lạnh.
+とても: rất. すこし: một chút, hơi hơi
+Cả 2 từ đều dùng với thể khẳng định.
+
+
+このこうえんは あまり おおきくないです。
+công viên này không lớn lắm.
+あまり+ phủ định: không.. lắm
+
+
+ハノイに やまが ありますか。
+Ở Hà Nội có núi không?
+N1 に N2 が あります。 ở N1 có N2
+
+
+おきなわ は 日本の みなみ です。
+Okinawa ở phía Nam của Nhật Bản
+N1 は N2の N3です。
+N1 ở vị trí N3 nào đó của N2.
+N3: phía Đông, Tây, Nam, Bắc, chính giữa.
+
+
+うち から FPTだいがく まで どのくらいですか。
+Từ nhà đến trường đại học FPT mất khoảng bao lâu?
+N1 から N2 まで どのくらい ですか。
+Từ N1 đến N2 mất khoảng bao lâu?
+どのくらい khoảng bao lâu
+
+うち から デパート まで 5分（くらい）です。
+Từ nhà đến bách hóa (khoảng) 5 phút.
+N1 から N2 まで Time（くらい） です
+Từ N1 đến N2 mất ..... (khoảng) thời gian.
+くらい: khoảng
+
+
+うち から FPTだいがく まで バスで １時間です。
+ひこうきで いきます。
+Từ nhà đến trường đại học FPT bằng xe buýt hết 1 tiếng.
+Nで 〜Time です。: (đi) bằng N mất ~ Time
+Nで いきます・きます・かえります: đi/đến/về bằng phương tiện N
+
+
+アユタヤは どんな ところ ですか。
+きれいな ところです。
+Ayutaya là NƠI như thế nào?
+Một NƠI đẹp.
+dùng どんな＋N (cộng trực tiếp) để hỏi. どんな không thể đứng một mình.
+
+
+日本は 8月 とても あつい です。ロシアは どうですか。
+Nhật bản tháng 8 rất nóng. NGA THẾ NÀO?
+N は どうですか: hỏi tính chất của N.
+
+
+このまちは にぎやかです。そして、きれいです。
+Thành phố/thị trấn này náo nhiệt. Và đẹp nữa,
+。そして、 và.
+Từ nối, đứng trước một CÂU, thể hiện CÂU đó có ý bổ sung cho CÂU trước đó.
+
+
+私の まちは おおきくないですが、 いい ところです。
+Thành phố/thị trấn của tôi không lớn nhưng là nơi tốt.
+〜が、〜。Nhưng
+Thể hiện 2 vế có ý nghĩa trái chiều TRONG CÙNG MỘT CÂU.
+
+
+(1) あついです ね。
+(2) そうです ね。
+ね：Nhỉ, nhé.
+
+Là trợ từ đuôi. Ý nghĩa:
+(1) đưa ra ý kiến, mong đợi sự đồng tình.
+(2) thể hiện sự đồng tình.
+
+# Bai 4 Kanji
+- 東京
+- とうきょう :Tokyo ĐÔNG KINH
+- 東
+- ひがし : phía đông ĐÔNG
+- 名前
+- なまえ : tên TIỀN
+- 前
+- まえ : trước, phía trước TIỀN
+- 前日
+- ぜんじつ : ngày trước (mốc thời gian cụ thể)/ trước đây TIỀN NHẬT
+- 国
+- くに : đất nước Quốc
+- 男
+- おとこ : Đàn ông, con trai Nam
+- 男の人
+- おとこ の ひと : Đàn ông NAM NHÂN
+- 男の学生
+- おとこ の がくせい : Học sinh, sinh viên nam
+- 女
+- おんな :Phụ nữ, con gái NỮ
+- 女の人
+- おんな の ひと : Phụ nữ NỮ NHÂN
+- 女の学生
+- おんな の がくせい : Học sinh/sinh viên nữ
+- 男女
+- だんじょ : NAM NỮ nam và nữ, đàn ông-phụ nữ
+- 区
+- く : quận KHU
+- 市
+- し: thành phố THỊ
+
+# Bai 5.1
+- きょう （今日）:hôm nay
+- あした : ngày mai
+- あさって : ngày kia
+- きのう : hôm qua
+- おととい : hôm kia
+- せんしゅう ; tuần trước
+- しゅうまつ : cuối tuần
+- いえ : nhà
+- へや : căn phòng
+- デパート : Trung tâm thương mại
+- びじゅつかん : bảo tàng mỹ thuật
+- ゲーム : trò chơi
+- かぞく : gia đình
+- こいびと : người yêu
+- ともだち : bạn bè
+- ルームメイト : bạn cùng phòng
+- どこか（へ）:nơi nào đó
+- あいます : gặp gỡ
+- つくります : làm, chế tạo
+- かいもの します : mua sắm
+- しょくじ します : Dùng bữa, ăn uống
+- せんたく します : giặt giũ
+- そうじ します : Hút bụi, lau dọn nhà cửa
+- それから : sau đó
+- 一人で (ひとりで) : một mình
