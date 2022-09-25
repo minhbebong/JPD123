@@ -257,3 +257,26 @@ Là trợ từ đuôi. Ý nghĩa:
 - そうじ します : Hút bụi, lau dọn nhà cửa
 - それから : sau đó
 - 一人で (ひとりで) : một mình
+
+# Bai 5.2
+- けさ : sáng nay
+- せんがつ : tháng trước
+- きょねん : năm ngoái
+- かぜ : cảm cúm
+- てんき : thời tiết
+- ばんごはん : cơm tối
+- ふく  : quần áo
+- 〜に のぼります : leo, trèo
+- 〜に はいります : Vào / Bước vào
+- おんせん に はいります  : Tắm suối nước nóng
+- いそがしい  : bận rộn
+- おもしろい : Thú vị, hay, hấp dẫn
+- きもち が いい : Cảm thấy sảng khoái
+- たかい : Cao, đắt
+- やすい : rẻ
+- たのしい : Vui vẻ
+- むずかしい : khó
+- かんたん（な） : dễ, đơn giản
+- たいへん（な） : Vất vả, khổ sở
+- ひま（な）: rảnh rỗi
+- どうして : tại sao
