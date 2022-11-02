@@ -280,3 +280,127 @@ Là trợ từ đuôi. Ý nghĩa:
 - たいへん（な） : Vất vả, khổ sở
 - ひま（な）: rảnh rỗi
 - どうして : tại sao
+
+
+# Bai 7.1
+- かいさつ : (nơi/cửa) Soát vé
+- き : cây
+- こうばん : đồn cảnh s-át
+- じどうはんばいき : máy bán hàng tự động
+- バスてい : trạm xe buýt
+- ポスト : Thùng thư, hòm thư
+- はな : hoa
+- いぬ : con chó
+- あいだ : giữa, ở giữa
+- うえ : Trên, bên trên
+- した : dưới, phía dưới
+- ちかく : Gần (ở vị trí gần)
+- となり: Bên cạnh (sát)
+- なか : Trong, bên trong
+- そと : Ngoài, bên ngoài
+- まえ : Trước, phía trước
+- うしろ : Sau, phía sau, đằng sau
+- よこ : bên cạnh / chiều ngang
+- むかえ に いきます: đi đón
+- います「いる」 : Có mặt ở (sự tồn tại của người, động vật)
+- もしもし : Alo, Alo (Người gọi điện thoại nói)
+
+# Bai 7.2
+- いす : ghế, cái ghế
+- テーブル : cái bàn
+- でんしレンジ : lò vi sóng
+- れいぞうこ : tủ lạnh
+- さとう : đường (ăn)
+- しお : muối
+- しょうゆ : xì dầu
+- コップ : Cốc, cái cốc
+- （お）さら : cái đĩa
+- スプーン : Cái thìa, cái muỗng
+- ナイフ : con dao
+- フォーク : cái dĩa
+- はし : đũa
+- かんじ : chữ Hán
+- どれ : cái nào
+- どの～ : ～nào ( dùng khi cần phân biệt 1 trong nhiều đối tượng (3 trở lên))
+- あらいます : Giặt, rửa, tắm
+- おきます : đặt, để
+- かきます: viết
+- かします : cho mượn
+- ききます : nghe, hỏi
+- きります : Cắt, gọt
+- つかいます : dùng, sử dụng
+- てつだいます : giúp, giúp đỡ
+- とります : cầm, lấy
+- もっていきます : mang đi
+- わかります : hiểu, biết
+- だします : Nộp, lấy ra
+- いれます : cho vào, bỏ vào
+- おしえます : Dạy, chỉ bảo
+- たくさん : nhiều
+- すみませんが : Xin lỗi, cho tôi hỏi
+- いいですよ : Được thôi!
+
+# Bai the Te
+- きります １ : きって cắt
+- あらいます １ : あらって rửa
+- おきます １、２ : １ → おいて đặt, để : ２ → おきて thức dậy
+- かきます １ : かいて viết, vẽ
+- かします（貸します） １ : かして cho mượn, cho vay
+- ききます（聞きます） １ : きいて nghe
+- つかいます １ : つかって dùng, sử dụng
+- てつだいます １ : てつだって giúp đỡ
+- とります １ : とって cầm, lấy
+- もっていきます
+（持って行きます） １ :もっていって mang đi, mang theo
+- わかります １ :わかって hiểu
+- だします １ : だして lấy ra, rút ra
+- れいぞうこ から ジュースを だします。 : Lấy nước hoa quả từ tủ lạnh.
+- いれます ２ : いれて cho vào, bỏ vào
+- れいぞうこ に ジュースを いれます。: cho nước hoa quả vào tủ lạnh.
+- おしえます ２ : おしえて Dạy, chỉ bảo
+- せんせいは 学生に おしえます。 : Thầy giáo giảng dạy cho học trò.
+- うたいます １ : うたって hát = sing
+- うた を うたいます
+- すいます １ : すって hút
+- タバコを すいます : hút thuốc
+- はなします（話します） １ : はなして nói, nói chuyện
+- ひきます １ : ひいて chơi (nhạc cụ)
+- ピアノ／ギターを ひきます
+- もちます １ : もって mang, cầm
+- あけます (開けます) ２ : あけて mở
+- しめます（閉めます） ２ : しめて đóng
+- でんわを かけます ２ : かけて gọi điện thoại
+- もってきます ３ : もってきて mang đến
+- むかえ に いきます １ : むかえに いって đi đón
+- かぞくを むかえに いきます : đi đón gia đình
+- あそびます １ : あそんで chơi
+- あいます １ : あって gặp
+- ともだち に あいます : gặp gỡ bạn bè
+- つくります １ : つくって làm, chế tạo, sản xuất
+- かいものします : 買い物します ３
+- かいものして mua hàng
+- しょくじします ３ :しょくじして : dùng bữa, ăn cơm.
+- せんたくします ３ : せんたくして :giặt giũ
+- そうじします ３ : そうじして : Hút bụi, lau dọn nhà cửa
+- のぼります １ : のぼって leo, trèo
+- やま に のぼります : Leo núi
+- でんしゃ に のぼります lên tàu điện
+- はいります : （～に 入ります） １
+- はいって vào (một không gian nào đó)
+- へやに はいります vào phòng
+- だいがく に はります vào đại học
+- おんせん に はいります tắm suối nước nóng
+- しゃしんを とります １ : しゃしんを とって : chụp ảnh
+- かります ２ : かりて mượn, vay
+- たべます ２ : たべて ăn
+- のみます（飲みます） １ : のんで uống
+- みます（見ます） ２ : みて :nhìn, xem
+- かえります １ : かえって về, trở về
+- はたらきます １ : はたらいて : làm việc, lao động
+- かいます（買います） １ : かって : mua
+- ききます（聞きます） １ : きいて nghe
+- よみます（読みます） １ : よんで đọc
+- ねます ２ : ねて : ngủ
+- べんきょうします １ : べんきょうして học tập
+- いきます (行きます) １＊ : いって đi
+- きます（来ます） ３ : きて đến
